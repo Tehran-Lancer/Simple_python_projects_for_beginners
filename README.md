@@ -6,11 +6,14 @@
 <h3>List of Projects📃✨ :</h3>
 <ul>
   <li>Simple Calculator : <p> <ul> 
+   <p>Programmer : Mahtab Javadi </p>
    <li>Description: A basic calculator that can perform addition, subtraction, multiplication, and division operations.</li>
    <li>Files: Calculator/calculator.py</li>
   </ul>
 </p></li>
     <li>The project of construction and encryption on the zip file : <p> <ul> 
+    <p>Programmer : Mahtab Javadi </p>
+     
    <li>Description: A simple project that receives a file as input and then converts it into a zip file with the password you want</li>
    <li>Files: ZipFile/main.py </li>
   </ul>
