@@ -13,9 +13,18 @@
 </p></li>
     <li>The project of construction and encryption on the zip file : <p> <ul> 
     <p>Programmer : Mahtab Javadi </p>
-     
    <li>Description: A simple project that receives a file as input and then converts it into a zip file with the password you want</li>
-   <li>Files: ZipFile/main.py </li>
+   <li>Files: ZipFile/main.py </li></ul>
+     
+   <li>Age calculation project :<p> <ul> 
+    <p>Programmer : Mahtab Javadi </p>
+   <li>Description: In this project, the user enters his date of birth and then the age of the user is calculated and displayed</li>
+   <li>Files: Age calculator/ age calculator.py </li></ul>
+
+   <li>Translator:<p> <ul> 
+    <p>Programmer :Samin Shojaei </p>
+   <li>Description: In this project, the user enters his date of birth and then the age of the user is calculated and displayed</li>
+   <li>Files: Translator / translater.py</li>
   </ul>
 </p></li>
 </ul>
