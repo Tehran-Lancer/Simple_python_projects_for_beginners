@@ -10,7 +10,7 @@ codes = {
     'russian': 'ru',
     'arabic': 'ar',
 }
-print ('wellcome to translator\n')
+print ('welcome to translator\n')
 while True:
     text = input("enter text to translate: ")
     target_language = input("enter the language that you want to translate to : ").strip()
