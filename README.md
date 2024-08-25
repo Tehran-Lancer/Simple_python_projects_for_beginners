@@ -24,7 +24,12 @@
    <li>Translator:<p> <ul> 
     <p>Programmer :Samin Shojaei </p>
    <li>Description: In this project, the user enters his date of birth and then the age of the user is calculated and displayed</li>
-   <li>Files: Translator / translater.py</li>
+   <li>Files: Translator / translater.py</li></ul>
+
+   <li>Number guessing game :<p> <ul> 
+    <p>Programmer : Mahtab Javadi </p>
+   <li>Description: This project is a number guessing game made using the random library</li>
+   <li>Files :  Number guessing game / number_guessing_game.py </li></ul>
   </ul>
 </p></li>
 </ul>
